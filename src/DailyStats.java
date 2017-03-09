@@ -20,6 +20,9 @@ public class DailyStats extends JPanel{
         listOfSites.addItem("lenta.ru");
         listOfSites.addItem("meduza.ru");
         listOfSites.addItem("ria.ru");
+        listOfPersons.addItem("Путин");
+        listOfPersons.addItem("Медведев");
+        listOfPersons.addItem("Навальный");
         periodLabel1.setBounds(20, 70, 60, 60);
         periodLabel2.setBounds(160, 70, 60, 60);
 
